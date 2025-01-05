@@ -258,7 +258,7 @@ body {
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background-image: url("../img/header-bg.jpeg.jpg");
+  background-image: url("../img/coffee-van.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -285,14 +285,14 @@ body {
 }
 
 .hero .content h1 {
-  font-size: 6em;
-  color: #010101;
-  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
+  font-size: 7em;
+  color: #fff;
+  text-shadow: 4px 4px 8px rgba(3, 3, 5, 2.5);
   line-height: 1.2;
 }
 
 .hero .content h1 span {
-  color: #74573a;
+  color: #b6895b;
 }
 
 .hero .content p {
@@ -300,8 +300,8 @@ body {
   margin-top: 0.5rem;
   line-height: 1.5;
   font-weight: 600;
-  text-shadow: 1px 1px 3px rgba(1, 1, 3, 0.5);
-  color: #010101;
+  text-shadow: 4px 4px 8px rgba(3, 3, 5, 2.5);
+  color: #fff;
 }
 
 /* About Section */
