@@ -375,7 +375,6 @@ body {
 .contact .row {
   display: flex;
   margin-top: 2rem;
-  background-color: #222;
 }
 
 .contact .row .map {
