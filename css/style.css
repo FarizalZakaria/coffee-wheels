@@ -468,8 +468,9 @@ footer .credit a {
 /* Tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 90%;
+    font-size: 95%;
   }
+}
 
   #snacks {
     display: inline-block;
@@ -525,6 +526,6 @@ footer .credit a {
 /* Mobile Phone */
 @media (max-width: 480px) {
   html {
-    font-size: 85%;
+    font-size: 95%;
   }
 }
