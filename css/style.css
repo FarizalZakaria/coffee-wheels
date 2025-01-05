@@ -462,14 +462,14 @@ footer .credit a {
 /* Laptop */
 @media (max-width: 1366px) {
   html {
-    font-size: 90%;
+    font-size: 95%;
   }
 }
 
 /* Tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 80%;
+    font-size: 90%;
   }
 
   #snacks {
@@ -524,8 +524,8 @@ footer .credit a {
 }
 
 /* Mobile Phone */
-@media (max-width: 450px) {
+@media (max-width: 480px) {
   html {
-    font-size: 70%;
+    font-size: 85%;
   }
 }
