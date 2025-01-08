@@ -461,16 +461,16 @@ footer .credit a {
 /* Laptop */
 @media (max-width: 1366px) {
   html {
-    font-size: 100%;
+    font-size: 75%;
   }
 }
 
 /* Tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 95%;
+    font-size: 65%;
   }
-}
+
 
   #snacks {
     display: inline-block;
@@ -521,11 +521,12 @@ footer .credit a {
   .contact .row form {
     padding-top: 0;
   }
+}
 
 
 /* Mobile Phone */
 @media (max-width: 480px) {
   html {
-    font-size: 90%;
+    font-size: 55%;
   }
 }
